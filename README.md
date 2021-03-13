@@ -24,5 +24,5 @@
   <li>Sleep function (reboot to clover after turn back on) </li>
 </ul>
 <br>
-<a href="https://github.com/acidanthera/AppleALC/releases">AppleALC </a>
+Link for AppleALC<a href="https://github.com/acidanthera/AppleALC/releases">AppleALC </a>
 
