@@ -24,6 +24,6 @@
   <li>Sleep function (reboot to clover after turn back on) </li>
 </ul>
 <br>
-Install <a href=>
+Install <a href="https://github.com/hgxvtml/Hackintosh-Lenovo-z510/blob/main/guide.md">guide</a>
 Link for <a href="https://github.com/acidanthera/AppleALC/releases">AppleALC </a>
 
