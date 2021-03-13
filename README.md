@@ -1,7 +1,8 @@
 # Lenovo z510 clover Hackintosh
 <h2>Fully working hackintosh catalina with clover bootloader on lenovo z510 i5-4200M </h2>
 
-<ul> All specs:
+<h4>All specs:</h4>
+<ul>
 <li>Brand: Lenovo</li>
   <li>Model: Z510</li>
 <li>Processor: i5-4200M</li>
@@ -9,8 +10,8 @@
 <li>gpu: Geforce GT 740M (working)</li>
 <li>igpu: Intel HD4600</li>
 </ul>
-<br>
-<ul>What's working:
+<h4>What's working: </h4>
+<ul>
 <li>Wifi</li>
 <li>Battery managment</li>
 <li>Brightness & nightshift</li>
@@ -19,8 +20,8 @@
 <li>Graphic card</li>
 </ul>
 <h> TESTED ON CATALINA (big sur should working without problems) </h>
-<br>
-<ul>What is not working:
+<h4>What is not working: </h4>
+<ul>
   <li>Sleep function (reboot to clover after turn back on) </li>
 </ul>
 <br>
