@@ -1,4 +1,4 @@
-# Lenovo-z510-clover
+# Lenovo z510 clover Hackintosh
 <h2>Fully working hackintosh catalina with clover bootloader on lenovo z510 i5-4200M </h2>
 
 <ul> All specs:
@@ -24,5 +24,5 @@
   <li>Sleep function (reboot to clover after turn back on) </li>
 </ul>
 <br>
-Link for AppleALC<a href="https://github.com/acidanthera/AppleALC/releases">AppleALC </a>
+Link for <a href="https://github.com/acidanthera/AppleALC/releases">AppleALC </a>
 
