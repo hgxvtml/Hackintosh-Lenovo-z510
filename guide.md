@@ -12,7 +12,7 @@
 <a href="https://mackie100projects.altervista.org/download-clover-configurator/">Clover Configurator</a>)</li>
 <li>If there are any files on your hard disk EFI partition, delete this </li>
 <li>Copy EFI directory from your pendraiv EFI partition to hard disk EFI partition</li>
-<li>Reboot and boot from your hard disk</li>
+<li>Reboot and boot from your hard disk</li> </ol>
 <br><br>
-If I have made mistakes in this guide, please write to me at hgxvtml@gmail.com
+If I have made mistakes in this guide, please write to me: hgxvtml@gmail.com
 
