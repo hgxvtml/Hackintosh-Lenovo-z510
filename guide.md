@@ -14,5 +14,4 @@
 <li>Copy EFI directory from your pendraiv EFI partition to hard disk EFI partition</li>
 <li>Reboot and boot from your hard disk</li> </ol>
 <br><br>
-If I have made mistakes in this guide, please write to me: hgxvtml@gmail.com
 
